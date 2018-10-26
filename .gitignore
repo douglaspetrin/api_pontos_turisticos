@@ -1,0 +1,14 @@
+db.sqlite3
+venv/
+venv
+imagens
+imagens/
+.idea
+*.pyc
+__pycache__
+db.sqlite3
+.DS_Store
+.env
+media_files
+debug.log
+
