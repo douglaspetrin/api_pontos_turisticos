@@ -17,16 +17,15 @@ API Rest desenvolvida com Django Rest Framework para estudos e testes.
 
 `virtualenv venv`   
 
+### Linux/Mac  
 `source .venv/bin/activate`
   
 
-ou
   
-
+### Windows  
 `cd venv/scripts`  
 
 `activate`  
-
 
 
 ## Instalar dependências
