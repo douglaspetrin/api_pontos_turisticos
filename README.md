@@ -1,4 +1,4 @@
-# api_pontos_turisticos
+# pontos_turisticos - API Rest
 API Rest desenvolvida com Django Rest Framework para estudos e testes.
 <br><br>
 
@@ -12,10 +12,10 @@ API Rest desenvolvida com Django Rest Framework para estudos e testes.
 
 ## Clone o projeto
 
-`$ git clone https://github.com/douglaspetrin/api_pontos_turisticos.git`
+`$ git clone https://github.com/douglaspetrin/pontos_turisticos.git`
   
 
-`cd api_pontos_turisticos`
+`cd pontos_turisticos`
 
 
 ## Criar e ativar ambiente virtual
