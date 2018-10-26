@@ -44,6 +44,6 @@ API Rest desenvolvida com Django Rest Framework para estudos e testes.
 `python manage.py runserver`  
 
 
-## Digite no seu navegador:
+## Digite no seu navegador
 
 http://localhost:8000/
