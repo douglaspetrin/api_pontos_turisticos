@@ -42,8 +42,16 @@ API Rest desenvolvida com Django Rest Framework para estudos e testes.
 `python manage.py migrate`   
 
 `python manage.py createsuperuser`  
-
-
+  
+  
+## Configure suas variaveis (.env)
+  
+  Crie um arquivo .env na pasta raiz do projeto e configure suas variaveis:  
+  - SECRET_KEY=AQUI VAI A SUA SECRET  
+  - DEBUG=True  
+  - DATABASE_URL=sqlite:///db.sqlite3  
+  - ALLOWED_HOSTS=.localhost, 127.0.0.1  
+  
 ## Rodar projeto
 
 `python manage.py runserver`  
