@@ -2,7 +2,7 @@
 API Rest desenvolvida com Django Rest Framework para estudos e testes.
 <br><br>
 
- `Python 3.6.6 - Django=>2.1.2 - djangorestframework==3.9.0`  
+ `Python==3.6.6 - Django==2.1.2 - djangorestframework==3.9.0`  
    
 ## Workflow  
 
