@@ -5,7 +5,7 @@ from .serializers import ComentarioSerializer
 
 class ComentarioViewSet(ModelViewSet):
     """
-    A simple ViewSet for viewing and editing accounts.
+    A simple ViewSet for viewing and editing Comentários.
     """
     queryset = Comentario.objects.all()
     serializer_class = ComentarioSerializer
